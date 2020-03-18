@@ -462,10 +462,3 @@ rm("fed_data1")
 # exporting to a csv file
 write.csv(fed_data, file = "fed_data.csv")
 write.csv(fed_data_transpose, file = "fed_data_transpose.csv")
-
-
-
-
-
-
-
